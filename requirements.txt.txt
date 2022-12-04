@@ -1,0 +1,12 @@
+pyyaml
+torchvision
+scipy
+h5py
+Cython
+tensorboardX
+pyinn
+tensorflow
+os
+
+
+
